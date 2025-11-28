@@ -44,9 +44,6 @@ Create a MySQL database and import SQL tables
 
 Update DB credentials in DBConnection.java
 
-Run project and open browser:
-
-http://localhost:8080/StudentManagement/
 
 CRUD Operations Example
 Student Module
